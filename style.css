@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #2C3E50;
+}
+
+p {
+    color: #34495E;
+}
+
+#beranda, #profil, #layanan,  #kontak {
+    padding: 60px 0;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
